@@ -6,7 +6,6 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.AssertFalse;
 import javax.validation.constraints.NotNull;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -56,7 +55,4 @@ public class CityMaster
 	public void setCity_name(String city_name) {
 		this.city_name = city_name;
 	}
-
-
-	
 }
