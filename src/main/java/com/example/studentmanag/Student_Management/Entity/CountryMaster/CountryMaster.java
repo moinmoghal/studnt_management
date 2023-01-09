@@ -5,7 +5,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -44,8 +43,4 @@ public String getCountry_name() {
 public void setCountry_name(String country_name) {
 	this.country_name = country_name;
 }
-
-
-
-
 }
