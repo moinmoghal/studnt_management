@@ -25,5 +25,5 @@ public class CityController
 	public CityMaster updateCity(@RequestBody CityMaster cityMaster) {
 		return serv.updateCity(cityMaster);
 	}
-
+//THIS IS A CITY CONTROLLER OF THE STUDENT MANAGEMENT PROJECT
 }
