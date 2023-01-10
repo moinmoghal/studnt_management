@@ -27,4 +27,5 @@ public class DegreeController
     	return serv.updateDegree(degreeMaster);
     }
 	
+    //THIS IS A DEGREE CONTROLLER
 }
