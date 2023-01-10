@@ -26,4 +26,7 @@ public GradeMaster update_grad(GradeMaster gradeMaster)
 	return serv.updateGrade(gradeMaster);
 }
 //THIS IS A GRADE CINTROLLER CLASS OF PROJECT STUDENT MANAGEMENT
+
+
+//Grade Controller
 }
